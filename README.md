@@ -8,7 +8,7 @@
 -	Colour scheme and typographs
 
 ### Screenshot
-
+![Screenshot 2022-07-05 at 21-10-43 Portfolio](https://user-images.githubusercontent.com/103773398/177411876-e7e02eab-b2ac-442c-8703-b376b0288cec.png)
 ### Links
 You can see the links in my VScode
 
@@ -42,5 +42,4 @@ Stackflows.com - this helped me to understanding how its work image could slide 
 
 ## Acknowledgments
 I do not know yet.
-![image](https://user-images.githubusercontent.com/103773398/177409444-67d9b583-ebc4-4ebc-8917-ac3f9e060465.png)
 
